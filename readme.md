@@ -46,7 +46,7 @@ Built with **Node.js**, this system intelligently rewrites queries, retrieves th
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Clou-D-Walker/GenAI-Knowledge-Chatbot.git CHATBOT
+git clone https://github.com/REVANTH-1-2/GenAI-Knowledge-Chatbot.git CHATBOT
 cd CHATBOT
 ```
 
